@@ -1,0 +1,26 @@
+.center {text-align: center;}
+
+#red {color:red}
+
+#green {color:green}
+
+#blue {color: blue}
+
+#big {font-size: 40px;}
+
+#tiny {font-size: 14px;}
+
+#bold {font-weight: bold;}
+
+#arial {font-family: arial;}
+
+#multiple {font-size: 50px; color: orange; font-weight:bold}
+
+.styledFont {font-style: normal; color:green}
+
+img {
+    width: 250px;
+    padding:1px;
+    border: 8px solid #3c424d;
+    background-color: #3c90cc2b;
+}
